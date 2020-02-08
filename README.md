@@ -1,4 +1,5 @@
 Audio Recorder
+:important: I use this for references while I code an VOIP for sa-mp.
 ==============
 
 ##### C++ Win32 Audio Recording using the Windows Wave API
